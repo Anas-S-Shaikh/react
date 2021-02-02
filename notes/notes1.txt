@@ -1,0 +1,15 @@
+Date - 27-12-2020 React.js
+
+React is javascript library which is used to develop frontend ui.
+
+It uses component based approach.
+    component is nothing but peice of code. i.e,
+    if some lines of code is repeating then we can create a component which contains that code.
+    and whenever require we can call that component rather then writing all lines again.
+    Means components are reuseable.
+
+It uses declaritive approach.
+
+DOM updates are handled very gracefully in react.
+
+
